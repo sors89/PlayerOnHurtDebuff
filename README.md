@@ -42,6 +42,7 @@ Example config file:
 
 **Note 1**: You can add multiple buffs per projectile or npc. </br>
 **Note 2**: Friendly projectile will not inflict debuff. </br>
+Here is an example of adding multiple buffs to projectile and npc: </br>
 ```
 {
   "Projectiles": {
