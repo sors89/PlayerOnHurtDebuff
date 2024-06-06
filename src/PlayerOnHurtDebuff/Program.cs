@@ -8,7 +8,7 @@ using Terraria.ID;
 namespace PlayerOnHurtDebuff
 {
     [ApiVersion(2, 1)]
-    public class PLPvP : TerrariaPlugin
+    public class PlayerOnHurtDebuff : TerrariaPlugin
     {
         public override string Author => "Sors";
 
@@ -23,7 +23,7 @@ namespace PlayerOnHurtDebuff
 
         public const string ConfigPath = "PlayerOnHurtDebuff.json";
 
-        public PLPvP(Main game) : base(game)
+        public PlayerOnHurtDebuff(Main game) : base(game)
         {
         }
 
