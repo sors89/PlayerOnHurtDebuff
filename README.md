@@ -64,7 +64,7 @@ Here is an example of adding multiple buffs to projectile and npc: </br>
         "Chance": 1.0
       }
     ],
-    "2": [
+    "82": [
       {
         "InflictBuffID": 195,
         "Duration": {
